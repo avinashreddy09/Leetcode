@@ -55,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/avinashreddy09/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/avinashreddy09/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
