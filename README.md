@@ -108,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/avinashreddy09/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/avinashreddy09/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/avinashreddy09/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/avinashreddy09/Leetcode/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/avinashreddy09/Leetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
