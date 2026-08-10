@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/avinashreddy09/Leetcode/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/avinashreddy09/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/avinashreddy09/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/avinashreddy09/Leetcode/tree/master/1140-stone-game-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/avinashreddy09/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avinashreddy09/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/avinashreddy09/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/avinashreddy09/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0486-predict-the-winner](https://github.com/avinashreddy09/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/avinashreddy09/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/avinashreddy09/Leetcode/tree/master/1140-stone-game-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/avinashreddy09/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Stack
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/avinashreddy09/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/avinashreddy09/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/avinashreddy09/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/avinashreddy09/Leetcode/tree/master/1140-stone-game-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/avinashreddy09/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/avinashreddy09/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/avinashreddy09/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/avinashreddy09/Leetcode/tree/master/1140-stone-game-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/avinashreddy09/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Tree
 |  |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/avinashreddy09/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/avinashreddy09/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/avinashreddy09/Leetcode/tree/master/1140-stone-game-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -185,4 +190,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/avinashreddy09/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/avinashreddy09/Leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/avinashreddy09/Leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
