@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/avinashreddy09/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0115-distinct-subsequences](https://github.com/avinashreddy09/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/avinashreddy09/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/avinashreddy09/Leetcode/tree/master/1927-sum-game) |
