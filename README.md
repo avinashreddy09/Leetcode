@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/avinashreddy09/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/avinashreddy09/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/avinashreddy09/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3620-network-recovery-pathways](https://github.com/avinashreddy09/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/avinashreddy09/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/avinashreddy09/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/avinashreddy09/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/avinashreddy09/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/avinashreddy09/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/avinashreddy09/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3620-network-recovery-pathways](https://github.com/avinashreddy09/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Stack
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/avinashreddy09/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/avinashreddy09/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/avinashreddy09/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3620-network-recovery-pathways](https://github.com/avinashreddy09/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avinashreddy09/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3620-network-recovery-pathways](https://github.com/avinashreddy09/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Counting Sort
 |  |
 | ------- |
@@ -309,4 +313,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/avinashreddy09/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Graph Theory
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/avinashreddy09/Leetcode/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/avinashreddy09/Leetcode/tree/master/3620-network-recovery-pathways) |
+## Shortest Path
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/avinashreddy09/Leetcode/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
