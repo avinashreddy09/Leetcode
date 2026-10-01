@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/avinashreddy09/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/avinashreddy09/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/avinashreddy09/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [2751-robot-collisions](https://github.com/avinashreddy09/Leetcode/tree/master/2751-robot-collisions) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/avinashreddy09/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/avinashreddy09/Leetcode/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/avinashreddy09/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/avinashreddy09/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/avinashreddy09/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -342,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/avinashreddy09/Leetcode/tree/master/3620-network-recovery-pathways) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/avinashreddy09/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
