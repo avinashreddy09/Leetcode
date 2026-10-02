@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/avinashreddy09/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/avinashreddy09/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/avinashreddy09/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/avinashreddy09/Leetcode/tree/master/0486-predict-the-winner) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/avinashreddy09/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/avinashreddy09/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/avinashreddy09/Leetcode/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/avinashreddy09/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/avinashreddy09/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/avinashreddy09/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/avinashreddy09/Leetcode/tree/master/0022-generate-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/avinashreddy09/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
 |  |
@@ -348,4 +351,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/avinashreddy09/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/avinashreddy09/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
