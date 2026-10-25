@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/avinashreddy09/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0142-linked-list-cycle-ii](https://github.com/avinashreddy09/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/avinashreddy09/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/avinashreddy09/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/avinashreddy09/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/avinashreddy09/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0622-design-circular-queue](https://github.com/avinashreddy09/Leetcode/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/avinashreddy09/Leetcode/tree/master/0707-design-linked-list) |
 ## Design
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/avinashreddy09/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/avinashreddy09/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/avinashreddy09/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/avinashreddy09/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -386,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/avinashreddy09/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/avinashreddy09/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/avinashreddy09/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
