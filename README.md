@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/avinashreddy09/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/avinashreddy09/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/avinashreddy09/Leetcode/tree/master/0056-merge-intervals) |
+| [0347-top-k-frequent-elements](https://github.com/avinashreddy09/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/avinashreddy09/Leetcode/tree/master/0486-predict-the-winner) |
 | [0622-design-circular-queue](https://github.com/avinashreddy09/Leetcode/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/avinashreddy09/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/avinashreddy09/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/avinashreddy09/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Enumeration
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/avinashreddy09/Leetcode/tree/master/0056-merge-intervals) |
+| [0347-top-k-frequent-elements](https://github.com/avinashreddy09/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/avinashreddy09/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/avinashreddy09/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avinashreddy09/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -257,11 +260,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/avinashreddy09/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avinashreddy09/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3620-network-recovery-pathways](https://github.com/avinashreddy09/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/avinashreddy09/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2029-stone-game-ix](https://github.com/avinashreddy09/Leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/avinashreddy09/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/avinashreddy09/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -285,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/avinashreddy09/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0347-top-k-frequent-elements](https://github.com/avinashreddy09/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/avinashreddy09/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/avinashreddy09/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/avinashreddy09/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -393,4 +399,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/avinashreddy09/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/avinashreddy09/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/avinashreddy09/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
