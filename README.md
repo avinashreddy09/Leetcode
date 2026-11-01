@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/avinashreddy09/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/avinashreddy09/Leetcode/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/avinashreddy09/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/avinashreddy09/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/avinashreddy09/Leetcode/tree/master/0486-predict-the-winner) |
 | [0622-design-circular-queue](https://github.com/avinashreddy09/Leetcode/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/avinashreddy09/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/avinashreddy09/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/avinashreddy09/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/avinashreddy09/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/avinashreddy09/Leetcode/tree/master/0836-rectangle-overlap) |
