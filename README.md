@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/avinashreddy09/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/avinashreddy09/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avinashreddy09/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/avinashreddy09/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/avinashreddy09/Leetcode/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/avinashreddy09/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/avinashreddy09/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/avinashreddy09/Leetcode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/avinashreddy09/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/avinashreddy09/Leetcode/tree/master/1140-stone-game-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/avinashreddy09/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/avinashreddy09/Leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/avinashreddy09/Leetcode/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/avinashreddy09/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/avinashreddy09/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/avinashreddy09/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/avinashreddy09/Leetcode/tree/master/1140-stone-game-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/avinashreddy09/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/avinashreddy09/Leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/avinashreddy09/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/avinashreddy09/Leetcode/tree/master/1927-sum-game) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/avinashreddy09/Leetcode/tree/master/1140-stone-game-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/avinashreddy09/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/avinashreddy09/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/avinashreddy09/Leetcode/tree/master/1872-stone-game-viii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/avinashreddy09/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
