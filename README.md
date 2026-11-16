@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/avinashreddy09/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/avinashreddy09/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/avinashreddy09/Leetcode/tree/master/1927-sum-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/avinashreddy09/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/avinashreddy09/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/avinashreddy09/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/avinashreddy09/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/avinashreddy09/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2751-robot-collisions](https://github.com/avinashreddy09/Leetcode/tree/master/2751-robot-collisions) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/avinashreddy09/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/avinashreddy09/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
