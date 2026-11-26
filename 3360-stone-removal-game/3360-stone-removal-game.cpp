@@ -4,7 +4,7 @@ public:
         int take = 10, k = 0;
         while (n >= take) {
             n -= take;
-            take--;;;
+            take--;
             k++;
         }
         return k % 2 == 1;
